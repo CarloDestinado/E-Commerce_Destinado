@@ -17,8 +17,8 @@ $pesoFormatter = new NumberFormatter($amounLocale, NumberFormatter::CURRENCY);
 <div class="container my-5">
     <div class="row align-items-center">
         <div class="col-md-12">
-            <h1 class="text-center">Welcome to CYK Shoes Store</h1>
-            <p class="text-center">Your one-stop shop for all your needs!</p>
+            <h1 class="text-center">Welcome to Carlo's Sole Society</h1>
+            <p class="text-center">"Where Every Step Tells a Story."</p>
         </div>
     </div>
     <div class="row">
